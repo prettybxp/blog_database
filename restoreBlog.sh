@@ -1,1 +1,1 @@
-mysql -hlocalhost -uroot -p123456 test < blog.sql
+mysql -hlocalhost -uroot -pSql@0805 blog < blog.sql

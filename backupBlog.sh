@@ -1,1 +1,1 @@
-mysqldump -uroot -p123456 blog > blog.sql
+mysqldump -uroot -pSql@0805 blog > blog.sql
